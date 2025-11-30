@@ -160,3 +160,9 @@ This was a really fun project! I learned a lot about:
 - Jetpack Compose
 
 Feel free to check out the code and let me know if you have any questions!
+
+
+Application Demo
+<video src="https://raw.githubusercontent.com/Ankitgujare/CourseApplication/96ce058bcbb2fa4f0c92def15d6a39923cd4a4b3/CourseApp%20Demo.mp4" controls width="600"></video>
+
+
