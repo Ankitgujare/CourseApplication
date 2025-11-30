@@ -164,6 +164,8 @@ Feel free to check out the code and let me know if you have any questions!
 
 Application Demo
 [Download Demo Video](https://github.com/Ankitgujare/CourseApplication/raw/main/CourseApp%20Demo.mp4)
+Application ScreenShot
+![Image Alt](https://github.com/Ankitgujare/CourseApplication/blob/62d7321114fb73e255a8646272a581d2065226e8/Course%20App%20.png)
 
 
 
